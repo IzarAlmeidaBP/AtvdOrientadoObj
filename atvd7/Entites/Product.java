@@ -1,4 +1,4 @@
-package src.Entites;
+package atvd7.Entites;
 
 public class Product {
 
